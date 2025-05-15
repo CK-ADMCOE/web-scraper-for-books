@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: CK-ADMCOE/web-scraper-for-books
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: GitHub-integration
   owner: CK-ADMCOE
